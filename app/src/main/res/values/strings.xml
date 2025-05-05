@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">pract_3</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="default_name">Oleg</string>
+    <string name="default_surname">Nekrasov</string>
+    <string name="default_age" translatable="false">20</string>
+</resources>

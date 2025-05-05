@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_button">Дальше</string>
+    <string name="back_button">Назад</string>
+    <string name="default_name">Олег</string>
+    <string name="default_surname">Некрасов</string>
+</resources>
